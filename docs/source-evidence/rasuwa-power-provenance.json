@@ -1,0 +1,8 @@
+{
+  "classification": "model output",
+  "sourceUrl": "https://power.larc.nasa.gov/api/temporal/climatology/point?parameters=PRECTOTCORR,GWETROOT,GWETTOP,T2M&community=AG&longitude=85.38&latitude=28.28&format=JSON",
+  "retrievedDate": "2026-11-10",
+  "dataPeriod": "25-year Meteorological and Solar Monthly & Annual Climatologies (January 2001 - December 2025)",
+  "scope": "Model climatology at 28.28N 85.38E; not current weather, field-gauge readings or station elevation",
+  "usage": "Retained research evidence only. Runtime fallback remains an explicitly unverified illustration; this file is not silently used as a live observation."
+}

@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.spaceappschallenge.org/2026/challenges/dancing-with-the-sars",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "In this challenge, participants will build an interactive application that leverages radar remote sensing data from NISAR to track and visualize one or more types of surface changes, at locations around the world. Participants are encouraged to design intuitive tools and innovative visualizations, such as interactive change-detection maps, time-series animations, or dashboards, that make NISAR data accessible to a broad audience. The desired outcome is an open-source, user-friendly solution that translates complex radar observations into actionable insights, helping scientists, resource managers, educators, decision-makers, and the public better understand the patterns and rhythms of Earth’s surface at different time steps.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.spaceappschallenge.org/resources/participant-faqs",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "A summary of each challenge will be released on September 17, followed by challenge statements on October 28, which include the full details and requirements. Resources for each challenge will be published on November 13. Teams **are not allowed** to begin working on the challenges prior to the hackathon.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.spaceappschallenge.org/resources/team-formation-guide",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "We appreciate the enthusiasm of participants who want to start as early as possible. However, participants should NOT begin working on their project until the hackathon begins on November 14, 2026 (9:00 a.m. local time) to ensure a fair and equitable process.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://www.spaceappschallenge.org/awards",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "The project that most creatively communicates the potential of open data through the art of storytelling.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://power.larc.nasa.gov/docs/services/api/temporal/climatology",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "NASA POWER provides solar and meteorological data from satellite observations and models to help worldwide users respond",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://eonet.gsfc.nasa.gov/docs/v3",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "A Source is a reference to further information about the event. These references are usually the source from which the event was first curated, although there can be multiple sources per event. Source(s) can be used to filter the output of the [Events API.](https://eonet.gsfc.nasa.gov/docs/v3#eventsAPI) The acceptable sources can be accessed via the [sources JSON.](https://eonet.gsfc.nasa.gov/api/v3/sources)",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://nisar.jpl.nasa.gov/mission",
+      "title": "",
+      "accessed": "2026-11-10"
+    },
+    {
+      "id": 8,
+      "url": "https://science.nasa.gov/earth/earth-observatory/landslide-and-avalanche-debris-litter-hubbard-glacier",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Where the slides have deposited rock, snow, and other debris, surfaces have become rougher, which scatters more energy back toward the sensor and makes those areas appear bright in the December 8 image (the roughest areas are shown in dark green).",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Images by Eric Fielding and Gustavo H. X. Shiroma (JPL) of the NISAR Algorithm Development Team using data from the",
+          "added": "2026-11-11"
+        },
+        {
+          "text": "and prepared for NASA Earth Observatory by Lauren Dauphin.",
+          "added": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://science.nasa.gov/mission/nisar/interferometry",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Interferometric synthetic aperture radar (InSAR) techniques combine two or more SAR images over the same region to reveal surface topography or surface motion.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "url": "https://www.icimod.org/kyirong-rasuwa-flood-2026-nepal-china-border",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "On 26 August 2026, a major flash flood struck Nepal’s Rasuwa district and the surrounding Nepal-China border area, with severe impacts reported in and around the Bhote Koshi and Trishuli River corridor as well as in Gyirong, Tibet Autonomous Region, China.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://ndrrma.gov.np/mediafiles/rasuwa/Rasuwa_Flood_SitRep_Temp_ENG_01_01092026.pdf",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "On 26 August 2026, a major ice–rock avalanche occurred in the upper Bhote Koshi watershed",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://link.springer.com/article/10.1007/s12524-026-02611-x",
+      "title": "",
+      "accessed": "2026-11-11",
+      "quotes": [
+        {
+          "text": "with numerous pixels exceeding 5 m of cumulative horizontal offset",
+          "added": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://www.mdpi.com/2072-4292/18/21/3727",
+      "title": "",
+      "accessed": "2026-11-11",
+      "quotes": [
+        {
+          "text": "Relative to the surrounding terrain, median eastward and vertical displacements are +24.85 and −19.03 mm within the sampled possible detachment mapped by the United Nations Satellite Centre (UNOSAT), compared with +41.05 and +33.12 mm in the neighboring LOS deformation area.",
+          "added": "2026-11-11"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://www.nature.com/articles/s44304-026-00292-7_reference.pdf",
+      "title": "",
+      "accessed": "2026-11-11",
+      "quotes": [
+        {
+          "text": "at Rasuwa, satellite pixel offsets did not statistically resolve pre-failure motion or isolate the final week before the collapse",
+          "added": "2026-11-11"
+        }
+      ]
+    }
+  ]
+}

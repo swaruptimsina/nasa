@@ -1,0 +1,650 @@
+[
+  {
+    "viewport": {
+      "w": 1258,
+      "h": 552
+    },
+    "mode": "2D",
+    "map": {
+      "x": 42,
+      "y": 15,
+      "w": 1159,
+      "h": 360
+    },
+    "visibleMapHeight": 360,
+    "fullyVisible": true,
+    "caseOverflow": false,
+    "documentOverflow": false,
+    "panels": [
+      {
+        "selector": ".obs-map-surface",
+        "x": 42,
+        "y": 15,
+        "w": 1159,
+        "h": 360
+      },
+      {
+        "selector": ".scientific-legend-overlay",
+        "x": 42,
+        "y": 387,
+        "w": 573.5,
+        "h": 100
+      },
+      {
+        "selector": ".cursor-geodetic-pill",
+        "x": 627.5,
+        "y": 387,
+        "w": 573.5,
+        "h": 100
+      }
+    ],
+    "collisions": [],
+    "shortTargets": [],
+    "errors": [],
+    "fonts": {
+      "pixel": true,
+      "mono": true
+    },
+    "transition": false,
+    "screenshot": "screenshots/monitor-1258x552-2d.png"
+  },
+  {
+    "viewport": {
+      "w": 1258,
+      "h": 552
+    },
+    "mode": "3D",
+    "map": {
+      "x": 42,
+      "y": 15,
+      "w": 903,
+      "h": 360
+    },
+    "visibleMapHeight": 360,
+    "fullyVisible": true,
+    "caseOverflow": false,
+    "documentOverflow": false,
+    "panels": [
+      {
+        "selector": ".terrain-3d-wrapper",
+        "x": 42,
+        "y": 15,
+        "w": 903,
+        "h": 360
+      },
+      {
+        "selector": ".world-overlay-actions.top-left-3d",
+        "x": 968,
+        "y": 26,
+        "w": 222,
+        "h": 78
+      },
+      {
+        "selector": ".terrain-settings",
+        "x": 968,
+        "y": 116,
+        "w": 222,
+        "h": 44
+      },
+      {
+        "selector": ".illustrative-height-note",
+        "x": 968,
+        "y": 178,
+        "w": 222,
+        "h": 36
+      },
+      {
+        "selector": ".scientific-legend-overlay",
+        "x": 968,
+        "y": 226,
+        "w": 222,
+        "h": 136
+      },
+      {
+        "selector": ".flyto-bar-3d",
+        "x": 968,
+        "y": 374,
+        "w": 222,
+        "h": 120
+      },
+      {
+        "selector": ".terrain-station-caption",
+        "x": 968,
+        "y": 506,
+        "w": 222,
+        "h": 72
+      }
+    ],
+    "collisions": [],
+    "shortTargets": [],
+    "errors": [],
+    "fonts": {
+      "pixel": true,
+      "mono": true
+    },
+    "transition": false,
+    "badges": {
+      "labels": [
+        {
+          "code": "ST-03",
+          "label": "Select ST-03: Timure Settlement & Highway Gorge; illustrated elevation 1821m",
+          "x": 360.21875,
+          "y": 73.890625,
+          "w": 52.515625,
+          "h": 23
+        },
+        {
+          "code": "ST-04",
+          "label": "Select ST-04: 111 MW Rasuwagadhi Hydro & Dry Port; illustrated elevation 1825m",
+          "x": 355.6875,
+          "y": 14.96875,
+          "w": 52.515625,
+          "h": 23
+        },
+        {
+          "code": "ST-05",
+          "label": "Select ST-05: Miteri Bridge & Lhende Border Gorge; illustrated elevation 1831m",
+          "x": 423.796875,
+          "y": 61.0625,
+          "w": 52.515625,
+          "h": 23
+        }
+      ],
+      "collisions": [],
+      "clipped": []
+    },
+    "screenshot": "screenshots/monitor-1258x552-3d.png"
+  },
+  {
+    "viewport": {
+      "w": 1440,
+      "h": 900
+    },
+    "mode": "2D",
+    "map": {
+      "x": 70,
+      "y": 158,
+      "w": 1285,
+      "h": 468
+    },
+    "visibleMapHeight": 468,
+    "fullyVisible": true,
+    "caseOverflow": false,
+    "documentOverflow": false,
+    "panels": [
+      {
+        "selector": ".obs-map-surface",
+        "x": 70,
+        "y": 158,
+        "w": 1285,
+        "h": 468
+      },
+      {
+        "selector": ".scientific-legend-overlay",
+        "x": 70,
+        "y": 638,
+        "w": 636.5,
+        "h": 74
+      },
+      {
+        "selector": ".cursor-geodetic-pill",
+        "x": 718.5,
+        "y": 638,
+        "w": 636.5,
+        "h": 74
+      }
+    ],
+    "collisions": [],
+    "shortTargets": [],
+    "errors": [],
+    "fonts": {
+      "pixel": true,
+      "mono": true
+    },
+    "transition": false,
+    "screenshot": "screenshots/monitor-1440x900-2d.png"
+  },
+  {
+    "viewport": {
+      "w": 1440,
+      "h": 900
+    },
+    "mode": "3D",
+    "map": {
+      "x": 70,
+      "y": 158,
+      "w": 1029,
+      "h": 468
+    },
+    "visibleMapHeight": 468,
+    "fullyVisible": true,
+    "caseOverflow": false,
+    "documentOverflow": false,
+    "panels": [
+      {
+        "selector": ".terrain-3d-wrapper",
+        "x": 70,
+        "y": 158,
+        "w": 1029,
+        "h": 468
+      },
+      {
+        "selector": ".world-overlay-actions.top-left-3d",
+        "x": 1122,
+        "y": 169,
+        "w": 222,
+        "h": 78
+      },
+      {
+        "selector": ".terrain-settings",
+        "x": 1122,
+        "y": 259,
+        "w": 222,
+        "h": 44
+      },
+      {
+        "selector": ".illustrative-height-note",
+        "x": 1122,
+        "y": 321,
+        "w": 222,
+        "h": 36
+      },
+      {
+        "selector": ".scientific-legend-overlay",
+        "x": 1122,
+        "y": 369,
+        "w": 222,
+        "h": 136
+      },
+      {
+        "selector": ".flyto-bar-3d",
+        "x": 1122,
+        "y": 517,
+        "w": 222,
+        "h": 120
+      },
+      {
+        "selector": ".terrain-station-caption",
+        "x": 1122,
+        "y": 649,
+        "w": 222,
+        "h": 72
+      }
+    ],
+    "collisions": [],
+    "shortTargets": [],
+    "errors": [],
+    "fonts": {
+      "pixel": true,
+      "mono": true
+    },
+    "transition": false,
+    "badges": {
+      "labels": [
+        {
+          "code": "ST-03",
+          "label": "Select ST-03: Timure Settlement & Highway Gorge; illustrated elevation 1821m",
+          "x": 403.609375,
+          "y": 91.65625,
+          "w": 52.515625,
+          "h": 23
+        },
+        {
+          "code": "ST-04",
+          "label": "Select ST-04: 111 MW Rasuwagadhi Hydro & Dry Port; illustrated elevation 1825m",
+          "x": 397.71875,
+          "y": 30.359375,
+          "w": 52.515625,
+          "h": 23
+        },
+        {
+          "code": "ST-05",
+          "label": "Select ST-05: Miteri Bridge & Lhende Border Gorge; illustrated elevation 1831m",
+          "x": 466.296875,
+          "y": 74.953125,
+          "w": 52.515625,
+          "h": 23
+        }
+      ],
+      "collisions": [],
+      "clipped": []
+    },
+    "screenshot": "screenshots/monitor-1440x900-3d.png"
+  },
+  {
+    "viewport": {
+      "w": 390,
+      "h": 844
+    },
+    "mode": "2D",
+    "map": {
+      "x": 28,
+      "y": 8.75,
+      "w": 334,
+      "h": 438.875
+    },
+    "visibleMapHeight": 438.625,
+    "fullyVisible": true,
+    "caseOverflow": false,
+    "documentOverflow": false,
+    "panels": [
+      {
+        "selector": ".obs-map-surface",
+        "x": 28,
+        "y": 8.75,
+        "w": 334,
+        "h": 438.875
+      },
+      {
+        "selector": ".scientific-legend-overlay",
+        "x": 28,
+        "y": 459.625,
+        "w": 334,
+        "h": 118
+      },
+      {
+        "selector": ".cursor-geodetic-pill",
+        "x": 28,
+        "y": 589.625,
+        "w": 334,
+        "h": 58
+      }
+    ],
+    "collisions": [],
+    "shortTargets": [],
+    "errors": [],
+    "fonts": {
+      "pixel": true,
+      "mono": true
+    },
+    "transition": false,
+    "screenshot": "screenshots/monitor-390x844-2d.png"
+  },
+  {
+    "viewport": {
+      "w": 390,
+      "h": 844
+    },
+    "mode": "3D",
+    "map": {
+      "x": 28,
+      "y": 8.75,
+      "w": 334,
+      "h": 340
+    },
+    "visibleMapHeight": 339.75,
+    "fullyVisible": true,
+    "caseOverflow": false,
+    "documentOverflow": false,
+    "panels": [
+      {
+        "selector": ".terrain-3d-wrapper",
+        "x": 28,
+        "y": 8.75,
+        "w": 334,
+        "h": 340
+      },
+      {
+        "selector": ".world-overlay-actions.top-left-3d",
+        "x": 39,
+        "y": 371.75,
+        "w": 312,
+        "h": 94
+      },
+      {
+        "selector": ".terrain-settings",
+        "x": 39,
+        "y": 477.75,
+        "w": 312,
+        "h": 44
+      },
+      {
+        "selector": ".illustrative-height-note",
+        "x": 39,
+        "y": 539.75,
+        "w": 300,
+        "h": 36
+      },
+      {
+        "selector": ".scientific-legend-overlay",
+        "x": 39,
+        "y": 587.75,
+        "w": 312,
+        "h": 118
+      },
+      {
+        "selector": ".flyto-bar-3d",
+        "x": 39,
+        "y": 717.75,
+        "w": 312,
+        "h": 144
+      },
+      {
+        "selector": ".terrain-station-caption",
+        "x": 39,
+        "y": 873.75,
+        "w": 312,
+        "h": 36
+      }
+    ],
+    "collisions": [],
+    "shortTargets": [],
+    "errors": [],
+    "fonts": {
+      "pixel": true,
+      "mono": true
+    },
+    "transition": false,
+    "badges": {
+      "labels": [
+        {
+          "code": "ST-01",
+          "label": "Select ST-01: Syabrubesi Confluence & Relay; illustrated elevation 1436m",
+          "x": 132.71875,
+          "y": 168.859375,
+          "w": 52.515625,
+          "h": 23
+        },
+        {
+          "code": "ST-02",
+          "label": "Select ST-02: Chilime\u2013Goljung Agro & Grid Terrace; illustrated elevation 1640m",
+          "x": 92.140625,
+          "y": 98.625,
+          "w": 52.515625,
+          "h": 23
+        },
+        {
+          "code": "ST-03",
+          "label": "Select ST-03: Timure Settlement & Highway Gorge; illustrated elevation 1821m",
+          "x": 79.34375,
+          "y": 70.59375,
+          "w": 52.515625,
+          "h": 23
+        },
+        {
+          "code": "ST-04",
+          "label": "Select ST-04: 111 MW Rasuwagadhi Hydro & Dry Port; illustrated elevation 1825m",
+          "x": 75.078125,
+          "y": 12.125,
+          "w": 52.515625,
+          "h": 23
+        },
+        {
+          "code": "ST-05",
+          "label": "Select ST-05: Miteri Bridge & Lhende Border Gorge; illustrated elevation 1831m",
+          "x": 143.09375,
+          "y": 58.484375,
+          "w": 52.515625,
+          "h": 23
+        }
+      ],
+      "collisions": [],
+      "clipped": []
+    },
+    "screenshot": "screenshots/monitor-390x844-3d.png"
+  },
+  {
+    "viewport": {
+      "w": 640,
+      "h": 360
+    },
+    "mode": "2D",
+    "map": {
+      "x": 28,
+      "y": 9,
+      "w": 584,
+      "h": 324
+    },
+    "visibleMapHeight": 324,
+    "fullyVisible": true,
+    "caseOverflow": false,
+    "documentOverflow": false,
+    "panels": [
+      {
+        "selector": ".obs-map-surface",
+        "x": 28,
+        "y": 9,
+        "w": 584,
+        "h": 324
+      },
+      {
+        "selector": ".scientific-legend-overlay",
+        "x": 28,
+        "y": 345,
+        "w": 584,
+        "h": 100
+      },
+      {
+        "selector": ".cursor-geodetic-pill",
+        "x": 28,
+        "y": 457,
+        "w": 584,
+        "h": 40
+      }
+    ],
+    "collisions": [],
+    "shortTargets": [],
+    "errors": [],
+    "fonts": {
+      "pixel": true,
+      "mono": true
+    },
+    "transition": false,
+    "screenshot": "screenshots/monitor-640x360-2d.png"
+  },
+  {
+    "viewport": {
+      "w": 640,
+      "h": 360
+    },
+    "mode": "3D",
+    "map": {
+      "x": 28,
+      "y": 9,
+      "w": 584,
+      "h": 324
+    },
+    "visibleMapHeight": 324,
+    "fullyVisible": true,
+    "caseOverflow": false,
+    "documentOverflow": false,
+    "panels": [
+      {
+        "selector": ".terrain-3d-wrapper",
+        "x": 28,
+        "y": 9,
+        "w": 584,
+        "h": 324
+      },
+      {
+        "selector": ".world-overlay-actions.top-left-3d",
+        "x": 39,
+        "y": 356,
+        "w": 562,
+        "h": 94
+      },
+      {
+        "selector": ".terrain-settings",
+        "x": 39,
+        "y": 462,
+        "w": 562,
+        "h": 44
+      },
+      {
+        "selector": ".illustrative-height-note",
+        "x": 39,
+        "y": 524,
+        "w": 300,
+        "h": 36
+      },
+      {
+        "selector": ".scientific-legend-overlay",
+        "x": 39,
+        "y": 572,
+        "w": 562,
+        "h": 100
+      },
+      {
+        "selector": ".flyto-bar-3d",
+        "x": 39,
+        "y": 684,
+        "w": 562,
+        "h": 144
+      },
+      {
+        "selector": ".terrain-station-caption",
+        "x": 39,
+        "y": 840,
+        "w": 562,
+        "h": 36
+      }
+    ],
+    "collisions": [],
+    "shortTargets": [],
+    "errors": [],
+    "fonts": {
+      "pixel": true,
+      "mono": true
+    },
+    "transition": false,
+    "badges": {
+      "labels": [
+        {
+          "code": "ST-02",
+          "label": "Select ST-02: Chilime\u2013Goljung Agro & Grid Terrace; illustrated elevation 1640m",
+          "x": 219.453125,
+          "y": 94.65625,
+          "w": 52.515625,
+          "h": 23
+        },
+        {
+          "code": "ST-03",
+          "label": "Select ST-03: Timure Settlement & Highway Gorge; illustrated elevation 1821m",
+          "x": 207.25,
+          "y": 67.96875,
+          "w": 52.515625,
+          "h": 23
+        },
+        {
+          "code": "ST-04",
+          "label": "Select ST-04: 111 MW Rasuwagadhi Hydro & Dry Port; illustrated elevation 1825m",
+          "x": 203.1875,
+          "y": 9.84375,
+          "w": 52.515625,
+          "h": 23
+        },
+        {
+          "code": "ST-05",
+          "label": "Select ST-05: Miteri Bridge & Lhende Border Gorge; illustrated elevation 1831m",
+          "x": 271.125,
+          "y": 56.421875,
+          "w": 52.515625,
+          "h": 23
+        }
+      ],
+      "collisions": [],
+      "clipped": []
+    },
+    "screenshot": "screenshots/monitor-640x360-3d.png"
+  }
+]

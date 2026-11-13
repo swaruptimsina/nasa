@@ -1,0 +1,65 @@
+/* Focused judge trail; keep the expedition's existing pixel palette. */
+.science-boundary { color: #e2e8f0; background: #071426; padding: 8px 12px; font-size: 11px; line-height: 1.6; border-left: 3px solid #facc15; }
+.science-boundary p { margin: 6px 0; }
+.illustrative-height-note { display: block; max-width: 300px; margin-top: 6px; font-size: 12px; line-height: 1.5; color: #e2e8f0; white-space: normal; }
+/* Short laptop screens scroll the chassis rather than crush the map. */
+.mainframe-bezel-chassis { overflow-y: auto; }
+.mainframe-crt-screen { flex: 1 0 510px; min-height: 510px; overflow: auto; }
+.obs-canvas-stage { min-height: 300px; }
+@media (max-width: 720px) {
+  .observatory-split-layout { grid-template-columns: 1fr; }
+  .observatory-main-screen { min-height: 450px; }
+  .observatory-side-telemetry { min-height: 300px; }
+}
+
+
+button:focus-visible, a:focus-visible, input:focus-visible, summary:focus-visible {
+  outline: 3px solid #facc15;
+  outline-offset: 3px;
+}
+a { color: #7dd3fc; }
+.judge-launch { grid-column: 1 / -1; }
+.launch-challenge-line, .launch-secondary-region { font-size: .8rem; line-height: 1.55; margin-top: 10px; color: #cbd5e1; }
+.judge-resume { position: fixed; right: 12px; bottom: 8px; z-index: 1900; border: 2px solid #38bdf8; border-radius: 4px; background: #071426; color: #f1f5f9; padding: 9px 12px; box-shadow: 3px 3px 0 #020617; }
+.judge-backdrop { position: fixed; inset: 0; z-index: 2000; display: grid; place-items: center; background: #020617ed; padding: 14px; }
+.judge-briefing { width: min(1120px, 100%); max-height: 96vh; overflow: auto; background: linear-gradient(155deg, #11233e, #07101e); color: #f1f5f9; border: 3px solid #38bdf8; border-radius: 6px; box-shadow: 6px 6px 0 #020617; padding: 20px; user-select: text; font-size: 14px; line-height: 1.65; }
+.judge-header { display: flex; align-items: start; justify-content: space-between; gap: 16px; }
+.judge-header h2 { font-size: clamp(19px, 2.2vw, 27px); line-height: 1.4; margin: 6px 0; }
+.judge-kicker { font-size: 11px; letter-spacing: .05em; color: #7dd3fc; }
+.judge-briefing button { border: 1px solid #497599; background: #142c46; color: #f1f5f9; border-radius: 3px; padding: 9px 12px; font-size: 12px; min-height: 40px; }
+.judge-briefing button[aria-current] { border-color: #facc15; color: #facc15; background: #243245; }
+.judge-purpose { color: #e2e8f0; max-width: 95ch; margin: 12px 0 16px; }
+.judge-steps { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 18px; }
+.judge-body { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+.judge-story h3, .judge-observation h3 { font-size: 18px; line-height: 1.45; margin: 8px 0 12px; }
+.judge-story p { margin-bottom: 14px; }
+.judge-story ul { padding-left: 22px; }
+.judge-story li { margin-bottom: 8px; }
+.judge-data-badge { color: #86efac; font-size: 11px; padding: 4px 7px; border: 1px solid #3d7051; display: inline-block; }
+.judge-date-row { display: flex; justify-content: space-between; color: #facc15; font-size: 12px; margin-bottom: 6px; }
+.judge-image-wipe { position: relative; width: 100%; aspect-ratio: 1280 / 977; overflow: hidden; border: 1px solid #497599; background: #030712; }
+.judge-image-wipe img { display: block; width: 100%; height: 100%; object-fit: contain; }
+.judge-image-wipe .judge-before { position: absolute; inset: 0; }
+.judge-wipe-line { position: absolute; top: 0; bottom: 0; width: 2px; background: #facc15; pointer-events: none; }
+.judge-wipe-control { display: grid; gap: 6px; font-size: 12px; color: #e2e8f0; margin: 10px 0; }
+.judge-wipe-control input { width: 100%; accent-color: #facc15; min-height: 32px; }
+.judge-legend, .judge-credit, .judge-hint { font-size: 12px; line-height: 1.65; color: #cbd5e1; margin: 8px 0; }
+.judge-image-unavailable { padding: 30px 16px; border: 1px dashed #facc15; }
+.judge-provenance { border-top: 1px solid #497599; margin-top: 18px; padding-top: 14px; }
+.judge-provenance summary { cursor: pointer; color: #7dd3fc; }
+.judge-provenance p { margin: 10px 0; }
+.judge-provenance dl { display: grid; grid-template-columns: 160px 1fr; gap: 8px 14px; margin: 14px 0; font-size: 12px; }
+.judge-provenance dt { color: #facc15; }
+.judge-footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 16px; border-top: 1px solid #497599; padding-top: 14px; }
+.judge-footer span { font-size: 11px; color: #cbd5e1; }
+@media (max-width: 720px) {
+  .judge-body { grid-template-columns: 1fr; }
+  .judge-briefing { padding: 14px; }
+  .judge-header { flex-wrap: wrap; }
+  .judge-footer { flex-wrap: wrap; }
+  .judge-footer span { display: none; }
+  .judge-provenance dl { grid-template-columns: 1fr; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { scroll-behavior: auto !important; transition-duration: 0s !important; animation-duration: 0s !important; }
+}

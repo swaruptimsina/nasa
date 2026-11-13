@@ -1,0 +1,29 @@
+{
+  "classification": "archived observation",
+  "productLevel": "NASA-published false-color NISAR browse images; not calibrated/georeferenced analysis rasters",
+  "geographicScope": "Hubbard Glacier / St. Elias Mountains, Yukon–Alaska border; NOT Rasuwa and NOT the schematic Yukon–Kuskokwim game map",
+  "sourcePage": "https://science.nasa.gov/earth/earth-observatory/landslide-and-avalanche-debris-litter-hubbard-glacier/",
+  "publicationDate": "2026-02-25",
+  "retrievedDate": "2026-11-10",
+  "credit": "Images by Eric Fielding and Gustavo H. X. Shiroma (JPL) of the NISAR Algorithm Development Team using data from the NISAR GSLC product, and prepared for NASA Earth Observatory by Lauren Dauphin.",
+  "legend": "As described by NASA: green rougher/stronger radar return, purple smoother/weaker return. No numerical calibrated backscatter legend used by this app.",
+  "limitations": "App compares rendered images visually. No new quantitative change mask, displacement inversion, event prediction, or local validation is computed. Some bright green terrain is unchanged. Refer to source article for processing and interpretation.",
+  "assets": [
+    {
+      "acquisitionDate": "2025-11-26",
+      "localPath": "hubbard-2025-11-26.jpg",
+      "sourceUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/landslide-and-avalanche-debris-litter-hubbard-glacier/hubbardearthquakewide_nisar_20251126.jpg",
+      "sha256": "43da7c16a7c0e8c2a6ad9ab4e78c7e7c7f1a2c45bb2ec7f33e2547831dfe5a07",
+      "widthPx": 1280,
+      "heightPx": 977
+    },
+    {
+      "acquisitionDate": "2025-12-08",
+      "localPath": "hubbard-2025-12-08.jpg",
+      "sourceUrl": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/landslide-and-avalanche-debris-litter-hubbard-glacier/hubbardearthquakewide_nisar_20251208.jpg",
+      "sha256": "e83ffafb9f3395371dbd31d85ce8cc5b310a552b49a4d2bed1f8ec94bc02ea8d",
+      "widthPx": 1280,
+      "heightPx": 977
+    }
+  ]
+}

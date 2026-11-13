@@ -1,0 +1,13 @@
+[
+  {"id":"launch","name":"Launch and biome selector","owner":"src/components/ExpeditionLaunchScreen.tsx","selector":".expedition-terminal-frame"},
+  {"id":"field","name":"Field HUD, trackers and minimap","owner":"src/components/FieldExpeditionViewport.tsx","selector":".expedition-top-hud"},
+  {"id":"radio","name":"Fictional radio and topic menu","owner":"src/components/FieldExpeditionViewport.tsx","selector":".field-radio-frame"},
+  {"id":"ground-truth","name":"Simulated field-evidence exercise","owner":"src/components/FieldGroundTruthModal.tsx","selector":".field-gt-modal"},
+  {"id":"logbook","name":"Quest logbook","owner":"src/components/FieldExpeditionViewport.tsx","selector":".quest-journal-card"},
+  {"id":"sites","name":"Regional sites and navigation","owner":"src/components/FieldExpeditionViewport.tsx","selector":".fieldnav-card:not(.quest-journal-card)"},
+  {"id":"atlas","name":"Global atlas and NASA context","owner":"src/components/PixelWorldGlobeScreen.tsx","selector":".world-atlas-shell"},
+  {"id":"photos","name":"Local asset and provenance review","owner":"src/components/IncidentPhotoModal.tsx","selector":".photo-archive-modal:not(.intervention-modal)"},
+  {"id":"action","name":"Hypothetical community action exercise","owner":"src/components/ImpactInterventionModal.tsx","selector":".intervention-modal"},
+  {"id":"evidence","name":"Guided evidence trail and sources","owner":"src/components/JudgeBriefing.tsx","selector":".judge-briefing"},
+  {"id":"computer","name":"Computer: Map, Compare, Radar lab, NASA context and Checklist","owner":"src/components/LabSupercomputerScreen.tsx","selector":".mainframe-bezel-chassis"}
+]

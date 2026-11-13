@@ -1,0 +1,461 @@
+{
+  "version": 1,
+  "sources": [
+    {
+      "id": 1,
+      "url": "https://www.spaceappschallenge.org/2026/challenges",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Choose from 14 challenges for you and your team to address at this year's hackathon!",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "url": "https://www.spaceappschallenge.org/resources/participant-faqs",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "The [2026 NASA Space Apps Challenge](https://www.spaceappschallenge.org/2026/) will take place November 14-15, 2026.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "October 28: Challenge Statements available.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Each team's project submission must include a description of how SI tools were used during the development of their project.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "url": "https://www.spaceappschallenge.org/resources/team-formation-guide",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "However, participants should NOT begin working on their project until the hackathon begins on November 14, 2026 (9:00 a.m. local time) to ensure a fair and equitable process.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "To be eligible for Global Judging and Global Awards, teams must respond to one of the challenges.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "url": "https://science.nasa.gov/mission/nisar",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "L-band SAR (24 cm wavelength) and S-band SAR (9.4 cm wavelength)",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "NISAR Provisional Data Released on July 20, 2026\n\nThese L-band data products are fully calibrated and have undergone validation at a limited number of sites around the world.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "url": "https://www.icimod.org/press-releases/second-major-himalayan-flood-in-seven-weeks-raises-new-questions-about-mountain-risk",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Sentinel-1 InSAR satellite observations recorded up to 40 centimetres of line-of-sight deformation between 7 July and 24 August 2026, indicating measurable movement of the slope before failure. The disaster killed at least 1,451 people and left 5,745 people missing in Nepal, according to the National Disaster Risk Reduction and Management Authority. Chinese authorities reported 43 deaths and 519 people missing.\n\nThe report, [Understanding the Gyirong–Rasuwa disaster of 26 August 2026](https://icimod-my.sharepoint.com/:b:/g/personal/sumaharjan_icimod_org/IQC3w9i4DGUwR6KrcmFyKyzYAdsV2D8dNAkoflCgDoxcYFc?e=G29xNE) was launched today by Pema Gyamtsho, Director General of ICIMOD, at Nepal’s National Conference on Disaster Risk Reduction, where policymakers, practitioners and researchers gathered to discuss lessons from recent disasters and emerging risks across the Himalaya.\n\nThe finding comes as scientists investigate a recent flood in the Budhi Gandaki basin, where satellite imagery has confirmed another ice-rock avalanche and glacier collapse . Assessments of the event sequence, impacts and implications for future risk reduction are continuing. Researchers say the two disasters, occurring within seven weeks of each other, highlight the growing challenge of cascading mountain hazards across the Himalaya.\n\nPublished today in [Understanding the Gyirong–Rasuwa disaster of 26 August 2026](https://icimod-my.sharepoint.com/:b:/g/personal/sumaharjan_icimod_org/IQC3w9i4DGUwR6KrcmFyKyzYAdsV2D8dNAkoflCgDoxcYFc?e=G29xNE): A preliminary synthesis, the analysis found significant ground deformation at the collapse site before an estimated 132 million cubic metres of rock and glacier ice detached from the northern face of Langtang Lirung and plunged into the Lhende Khola valley.\n\nSentinel-1 InSAR satellite observations recorded up to 40 centimetres of line-of-sight deformation between 7 July and 24 August 2026, a 48-day period before the collapse, suggesting progressive destabilisation of the rock and ice mass prior to failure.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Researchers caution that the observed movement could not have predicted exactly when the collapse would occur.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Approximately 132 million cubic metres of rock and glacier ice detached from Langtang Lirung.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "No single trigger has yet been confirmed.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "The collapse occurred at 08:37 Nepal Standard Time and the debris surge reached the border corridor within approximately seven minutes. SMS alerts were issued at approximately 09:15 to 09:16, around 25 to 30 minutes after the corridor had already been impacted.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "url": "https://www.spaceappschallenge.org/2026/challenges/dancing-with-the-sars",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Your challenge is to build an interactive application that uses radar remote sensing data from the NASA-ISRO Synthetic Aperture Radar (NISAR) mission to track and visualize one or more types of surface change at locations around the world.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Second, download freely available NISAR data using the list of resources provided.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "The desired outcome is an open-source, user-friendly solution that translates complex radar observations into actionable insights, helping scientists, resource managers, educators, decision-makers, and the public better understand the patterns and rhythms of Earth’s surface at different time steps.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "url": "https://link.springer.com/article/10.1007/s12524-026-02611-x",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "The resulting value of ~ 99 (± 10) million m³, estimated using pre event DEM, should therefore be regarded as an approximate estimate of the initial detached mass rather than the final transported or deposited volume,",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "In the final, longer 26 July–19 August interval (24 days), the failure zone displays the largest and most spatially extensive displacement vectors of the entire series,",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "with numerous pixels exceeding 5 m of cumulative horizontal offset and a coherent downslope flow pattern extending across nearly the full width of the mapped escarpment",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "However, given the steep terrain and dynamic surface conditions, the InSAR results are subjected to coherence loss and phase unwrapping limitations.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "url": "https://www.mdpi.com/2072-4292/18/21/3727",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "P4 spans 24-day windows ending on 19 and 16 August 2026.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Relative to the surrounding terrain, median eastward and vertical displacements are +24.85 and −19.03 mm within the sampled possible detachment mapped by the United Nations Satellite Centre (UNOSAT), compared with +41.05 and +33.12 mm in the neighboring LOS deformation area.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "The positive ascending LOS feature contains 203 pixels (1.2992 km2) at LOS ≥ +50 mm and γ ≥ 0.30, with median LOS +63.01 mm and median coherence 0.799.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "The cluster does not overlap D; its minimum footprint-to-boundary separation is 1.393 km.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "url": "https://lib.icimod.org/records/qdvc1-tc123",
+      "title": "",
+      "accessed": "2026-11-10"
+    },
+    {
+      "id": 10,
+      "url": "https://science.nasa.gov/mission/nisar/mission-overview",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "L-band Global, S-band (India and over cal/val sites)",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "url": "https://lib.icimod.org/records/qdvc1-tc123/files/Understanding_the_Gyirong%E2%80%93Rasuwa_disasterof26Aug2026.pdf?download=1",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "All mechanisms \ndiscussed remain working hypotheses and require verification through field \ninvestigations, high-resolution comparison between pre- and post-event terrain, \nand reconciliation of seismic, satellite, meteorological, and streamflow-gauge \nrecords.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Similarly, pre-event LOS displacement \nof up to ~30 cm was observed using NISAR InSAR \nover 26 July–19 August 2026 (a 24-day period) across \nthe same area, as reported by Quinn Brencher on \nLinkedIn (not shown here).",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "although its presence at the \nexact failure surface cannot be confirmed without \ndirect ground observations.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "url": "https://ndrrma.gov.np/mediafiles/rasuwa/SitRep_ENG_20_21092026.pdf",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Date: 21 September 2026 Time: 07:00PM",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Total Recovered/Rescued Bodies: 1,451",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Total Rescued**\n**13,784",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Total Missing 5,745",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "url": "https://hyp3-docs.asf.alaska.edu/nisar-docs/availability-overview",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "NISARPROVISIONAL datasets were released July 20, 2026. These products are fully calibrated and have undergone validation at a limited set of sites around the world.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Level 1-3 products have a nominal latency of 36-72 hours.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "url": "https://www.nature.com/articles/s44304-026-00292-7",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Published: 03 November 2026",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "url": "https://science.nasa.gov/earth/earth-observatory/landslide-and-avalanche-debris-litter-hubbard-glacier",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "The debris is visible in radar imagery acquired by NISAR on December 8, two days after the quake (right). For comparison, the NISAR image on the left shows the same area on November 26, a week and a half before the quake.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Where the slides have deposited rock, snow, and other debris, surfaces have become rougher, which scatters more energy back toward the sensor and makes those areas appear bright in the December 8 image (the roughest areas are shown in dark green). Areas with smooth surfaces reflect little of the radar’s energy directly back to the satellite sensor, so these parts of the images appear dark (shown in purple). Note that there are some exceptionally rough, green surfaces beyond the new slide areas that remain relatively unchanged between the two images.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Images by Eric Fielding and Gustavo H. X. Shiroma (JPL) of the NISAR Algorithm Development Team using data from the_ [_NISAR GSLC product_](https://www.earthdata.nasa.gov/data/catalog/asf-nisar-l2-gslc-beta-v1-1) _, and prepared for NASA Earth Observatory by Lauren Dauphin. Story by Kathryn Hansen.",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "such maps—known as [interferograms](https://science.nasa.gov/mission/nisar/interferometry/)—are not possible because the ground lies buried beneath a layer of glacial ice that’s at least 700 meters (2,000 feet) thick.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "url": "https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Volume scattering caused by the leaves and branches in a forest canopy is most sensitive to cross-polarized data like VH or HV",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Double bounce scattering is caused by buildings, tree trunks, or inundated vegetation and is most sensitive to an HH polarized signal",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "url": "https://power.larc.nasa.gov/docs/services/api/temporal/climatology",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Below are examples for returning a climatology for a region on a 0.5 x 0.5 degree grid.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "url": "https://power.larc.nasa.gov/docs/methodology/data/sources_hydrology",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "`GWETTOP`, `GWETROOT`, and `GWETPROF` represent surface, root-zone, and full-profile soil wetness. `SFMC`, `RZMC`, and `PRMC` provide volumetric moisture content at those depths.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "url": "https://www.usgs.gov/water-science-school/science/land-subsidence",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Signs on pole show approximate altitude of land surface in 1925, 1955, and 1977. The site is in the San Joaquin Valley southwest of Mendota, California.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "url": "https://commons.wikimedia.org/wiki/File:Nepal_flood_2026_before_after.webp",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Animation of satellite imagery based on \\[\\[:File:Nepal\\_flood\\_before\\_2026-08-24\\_Copernicus\\_Sentinel2-L1C.png\\]\\] and \\[\\[:File:Landsat\\_Nepal\\_flood\\_2026-08-26.png\\]\\].",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Attribution: Contains modified Copernicus Sentinel data 2026",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "url": "https://commons.wikimedia.org/wiki/File:Landsat_Nepal_flood_2026-08-26.png",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Landsat 9 via USGS, processed by [User:Chorchapu",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "url": "https://commons.wikimedia.org/wiki/File:2026_Nepal_floods.gif",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Taken on 26 August 2026, 10:59:51",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Most jurisdictions do not have clear legal precedent on the copyright status of such works, see [Threshold of originality § Pre-positioned recording devices](https://en.wikipedia.org/wiki/Threshold_of_originality#Pre-positioned_recording_devices \"w:Threshold of originality\") for more information.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "url": "https://irides.tohoku.ac.jp/media/files/disaster/flood/2026NepalFloods_Parajuri.pdf",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "Date: Oct 5, 2026",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "url": "https://bhoonidhi.nrsc.gov.in/NISAR/NisarProducts.html",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "The data comprises of S-Band SAR acquisitions over the Indian landmass,\nalong with global locations spanning across diverse NISAR science themes, acquired in accordance with the ISRO observation plan.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "url": "https://www.nature.com/articles/s44304-026-00292-7.pdf",
+      "title": "",
+      "accessed": "2026-11-10"
+    },
+    {
+      "id": 26,
+      "url": "https://nepaleconomicforum.org/bhotekoshi-flood-sectoral-impacts",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "total disaster effects (damage plus economic losses) at NPR 408.29 billion (USD 2.70 billion).",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "Total damage | NPR 274.48 billion (USD 1,812.01 million)",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "url": "https://www.stimson.org/2025/investigating-an-emerging-climate-hazard-transboundary-glacial-floods-on-the-china-nepal-border",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "This event has been attributed to the rapid expansion and sudden drainage of a supraglacial lake system that formed atop the Purepu Glacier, approximately 35 kilometers upstream from the Nepal-China border at an elevation of about 5,150 meters above sea level.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "url": "https://science.nasa.gov/mission/nisar/interferometry",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "If the ground moves between passes, the phase difference is proportional to the ground deformation between passes along the LOS direction.",
+          "added": "2026-11-10"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "url": "https://www.nature.com/articles/s44304-026-00292-7_reference.pdf",
+      "title": "",
+      "accessed": "2026-11-10",
+      "quotes": [
+        {
+          "text": "at Rasuwa, satellite pixel offsets did not statistically resolve pre-failure\nmotion or isolate the final week before the collapse",
+          "added": "2026-11-10"
+        },
+        {
+          "text": "At Rasuwa in 2026, pre-failure deformation coincided with anomalous\nwarming<sup>22</sup>, which is consistent with warming as a conditioning factor but\ndoes not demonstrate that warming directly caused the initial failure.",
+          "added": "2026-11-10"
+        }
+      ]
+    }
+  ]
+}

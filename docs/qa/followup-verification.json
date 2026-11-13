@@ -1,0 +1,191 @@
+{
+  "reviewDate": "2026-11-11",
+  "productionUrl": "http://localhost:4173/",
+  "bundle": "index-CBgEgBW5.js",
+  "scope": "Actual browser DOM/native-launch and real React-handler/Blob checks; not comprehensive visual, scientific or cross-browser validation.",
+  "guide": {
+    "url": "http://localhost:4173/",
+    "scripts": [
+      "http://localhost:4173/assets/index-CBgEgBW5.js"
+    ],
+    "images": [
+      {
+        "src": "/nisar-reference/hubbard-2025-12-08.jpg",
+        "width": 1280,
+        "height": 977,
+        "loaded": true
+      },
+      {
+        "src": "/nisar-reference/hubbard-2025-11-26.jpg",
+        "width": 1280,
+        "height": 977,
+        "loaded": true
+      }
+    ],
+    "creditVisible": true
+  },
+  "scene": {
+    "note": "ARTISTIC LOS→HEIGHT ×490; not vertical ground motion.",
+    "fontSize": "12px",
+    "canvases": [
+      {
+        "width": 300,
+        "height": 150,
+        "display": "block"
+      },
+      {
+        "width": 852,
+        "height": 334,
+        "display": "block"
+      }
+    ]
+  },
+  "screenshot": {
+    "path": "/home/safal0715/Documents/Projects/NASA/docs/qa/screenshots/followup-observatory-3d.png"
+  },
+  "beforeWorksheet": {
+    "file": "worksheet-before-completion.md",
+    "progressLine": "*Game progress (not achieved impact): 0/5 region exercises recorded; no real communities protected.*",
+    "buttonDisabled": true
+  },
+  "afterWorksheet": {
+    "file": "worksheet-after-completion.md",
+    "progressLine": "*Game progress (not achieved impact): 1/5 region exercises recorded; no real communities protected.*",
+    "completionButton": "EXERCISE COMPLETE • NO REAL INTERVENTION",
+    "downloadFilename": "Educational_Scenario_Worksheet_rasuwa_nepal.md"
+  },
+  "configuration": {
+    "controls": [
+      {
+        "id": "action-control-0",
+        "value": "18"
+      },
+      {
+        "id": "action-control-1",
+        "value": "75"
+      }
+    ],
+    "acknowledged": true,
+    "ready": true
+  },
+  "hud": {
+    "recordedBadge": "🧩 Exercise recorded",
+    "exerciseButton": "⚡ EXERCISE COMPLETE",
+    "forbiddenDeployed": false
+  },
+  "capturedErrorsDuringFlow": [],
+  "limitationDisclosureVisible": true,
+  "regionCount": 5,
+  "regionalMath": [
+    {
+      "regionId": "rasuwa_nepal",
+      "rows": 148,
+      "cols": 160,
+      "cells": 23680,
+      "boundsKm": {
+        "width": 25.5,
+        "height": 23.3
+      },
+      "actualElevationRangeM": {
+        "min": 1310,
+        "max": 7216
+      },
+      "cornerSceneKm": {
+        "x": 12.75,
+        "z": -11.65
+      },
+      "maxAbsGradient": 2.6874117647058826,
+      "allFinite": true,
+      "classification": "illustration",
+      "limitation": "Internal array/declared-domain consistency only; not geodetic or scientific validation."
+    },
+    {
+      "regionId": "pantanal_brazil",
+      "rows": 148,
+      "cols": 160,
+      "cells": 23680,
+      "boundsKm": {
+        "width": 38,
+        "height": 34
+      },
+      "actualElevationRangeM": {
+        "min": 90.5,
+        "max": 344.6
+      },
+      "cornerSceneKm": {
+        "x": 19,
+        "z": -17
+      },
+      "maxAbsGradient": 0.06225882352941179,
+      "allFinite": true,
+      "classification": "illustration",
+      "limitation": "Internal array/declared-domain consistency only; not geodetic or scientific validation."
+    },
+    {
+      "regionId": "san_joaquin_usa",
+      "rows": 148,
+      "cols": 160,
+      "cells": 23680,
+      "boundsKm": {
+        "width": 38,
+        "height": 34
+      },
+      "actualElevationRangeM": {
+        "min": 62.7,
+        "max": 847.3
+      },
+      "cornerSceneKm": {
+        "x": 19,
+        "z": -17
+      },
+      "maxAbsGradient": 0.26849117647058834,
+      "allFinite": true,
+      "classification": "illustration",
+      "limitation": "Internal array/declared-domain consistency only; not geodetic or scientific validation."
+    },
+    {
+      "regionId": "hatay_turkiye",
+      "rows": 148,
+      "cols": 160,
+      "cells": 23680,
+      "boundsKm": {
+        "width": 38,
+        "height": 34
+      },
+      "actualElevationRangeM": {
+        "min": 86,
+        "max": 2135
+      },
+      "cornerSceneKm": {
+        "x": 19,
+        "z": -17
+      },
+      "maxAbsGradient": 0.6535014705882353,
+      "allFinite": true,
+      "classification": "illustration",
+      "limitation": "Internal array/declared-domain consistency only; not geodetic or scientific validation."
+    },
+    {
+      "regionId": "yukon_alaska",
+      "rows": 148,
+      "cols": 160,
+      "cells": 23680,
+      "boundsKm": {
+        "width": 38,
+        "height": 34
+      },
+      "actualElevationRangeM": {
+        "min": -8,
+        "max": 163.1
+      },
+      "cornerSceneKm": {
+        "x": 19,
+        "z": -17
+      },
+      "maxAbsGradient": 0.2114205882352941,
+      "allFinite": true,
+      "classification": "illustration",
+      "limitation": "Internal array/declared-domain consistency only; not geodetic or scientific validation."
+    }
+  ]
+}
